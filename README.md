@@ -15,7 +15,7 @@ This is the core RAG (Retrieval-Augmented Generation) engine and FastAPI backend
    *  `cd vik-chatbot`
 
 2. **Setup**:
-   * Create a virtual environment: `python -m venv venv`
+   * Create a virtual environment: `py -m venv venv`
    *  Activate it: `.\venv\Scripts\activate` (Win) or `source venv/bin/activate` (Mac/Linux)
    *  Install dependencies: `pip install -r requirements.txt`
 
