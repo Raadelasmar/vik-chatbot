@@ -10,7 +10,7 @@
 
 ## 🚀 Getting Started
 1. **Clone & Environment**:
-   - `git clone https://github.com/gdg-oc-bme/vik-chatbot.git`
+   - `git clone -b vik-chatbot-prototype https://github.com/Raadelasmar/vik-chatbot.git`
    - `cd vik-chatbot-prototype`
 2. **Setup**:
    - Create a virtual environment: `python -m venv venv`
