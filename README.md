@@ -1,12 +1,12 @@
 # VIK Chatbot - AI Engine Prototype
 
-[cite_start]This is the core RAG (Retrieval-Augmented Generation) engine and FastAPI backend for the VIK Chatbot project. [cite: 1, 11]
+[cite_start]This is the core RAG (Retrieval-Augmented Generation) engine and FastAPI backend for the VIK Chatbot project.
 
 ## 🛠️ Features
-- [cite_start]**FastAPI Backend**: Clean REST API for question-answering. [cite: 13, 19, 25]
-- [cite_start]**RAG Pipeline**: Document retrieval using LangChain and ChromaDB. [cite: 14, 21, 24]
-- [cite_start]**Query Rewriting**: Intelligent context handling for chat history. [cite: 15, 32]
-- [cite_start]**Streamlit UI**: A built-in testing interface. [cite: 4]
+- **FastAPI Backend**: Clean REST API for question-answering. 
+-**RAG Pipeline**: Document retrieval using LangChain and ChromaDB. 
+- **Query Rewriting**: Intelligent context handling for chat history. 
+- **Streamlit UI**: A built-in testing interface. 
 
 ## 🚀 Getting Started
 1. **Clone & Environment**:
