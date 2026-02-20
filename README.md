@@ -19,8 +19,8 @@ This is the core RAG (Retrieval-Augmented Generation) engine and FastAPI backend
    - Copy `.env.example` to a new file named `.env`.
    - Add your `GOOGLE_API_KEY` to the `.env` file.
 4. **Data Ingestion**:
-   - [cite_start]Place university PDFs in the `/data` folder. [cite: 8]
-   - [cite_start]Run `python ingest_database.py` to build the local vector store. [cite: 21]
+   - [cite_start]Place university PDFs in the `/data` folder. 
+   - [cite_start]Run `python ingest_database.py` to build the local vector store. 
 5. **Launch**:
-   - [cite_start]Run the API: `fastapi dev main.py` [cite: 25]
+   - [cite_start]Run the API: `fastapi dev main.py` 
    - [cite_start]Run the UI: `streamlit run ui.py`
